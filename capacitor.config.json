@@ -1,0 +1,12 @@
+{
+  "appId": "com.studyhive.app",
+  "appName": "StudyHive",
+  "webDir": "dist",
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"],
+      "smallIcon": "ic_stat_studyhive",
+      "iconColor": "#F59E0B"
+    }
+  }
+}
